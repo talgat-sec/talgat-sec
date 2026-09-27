@@ -22,14 +22,7 @@ My goal is to transition into the tech industry by developing strong technical s
 Here are some of the projects I have built so far:
 
 - **[Aim Training](https://github.com/talgat-sec/aim-training)**  
-  A simple browser-based aim training application built to practice JavaScript logic and DOM manipulation.
+  A free browser aim trainer for quick warm-ups before FPS matches. Choose your difficulty and session length, then practice clicking targets. [Play online](https://aim-training-online.netlify.app/).
 
 - **[Cargo Transportation](https://github.com/talgat-sec/cargo-transportation)**  
   A website project for a logistics company in Astana, focused on layout, structure, and clear presentation of business information.
-
-*(More projects coming soon...)*
-
----
-
-### 📫 Contact
-- **GitHub:** [@talgat-sec](https://github.com/talgat-sec)
